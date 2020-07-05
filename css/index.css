@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+}
+html{
+  background-color: #363636;
+}
+header{
+    position: relative;
+    background-color: #a9a9a9;
+
+}
+.cat{
+  position: absolute;
+
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+
+  width: 200px;
+  height: 40px;
+
+  top: 0;
+  right: 15%;
+
+
+}
+.cat:hover{
+  background-color: #a9a9a9;
+}
+a{
+  text-decoration: none;
+}
+table a {
+  color: white;
+}
+.catbar{
+  position: absolute;
+  top: 75%;
+  width: 100%;
+  padding: 5%;
+}
+
+
+.topkino{
+  position: absolute;
+  width: 100%;
+
+}
+.film{
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.film:last-child{
+
+}
